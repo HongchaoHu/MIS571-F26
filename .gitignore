@@ -1,0 +1,18 @@
+# Android / Gradle
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Local databases and environment files
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db

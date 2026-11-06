@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MIS 571</string>
+    <string name="starter_message">MIS 571 starter\nSQLite database is ready.</string>
+</resources>
